@@ -1,0 +1,15 @@
+#jumbobok {
+  background-image: url(/images/Hackers.jpg);
+  background-size: 1165px;
+  background-origin: padding-box;
+  background-repeat: no-repeat;
+  background-position-x: 0px;
+  background-position-y: 0px;
+  tab-size: auto;
+}
+
+#body {
+  background-image: url(/images/Cyberpunk.png);
+  background-color: #d7d101;
+  background-size: 1366px;
+}
